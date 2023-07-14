@@ -1,5 +1,5 @@
 # Guess-My-Number
-https://vemas.dev/Guess-My-Number/
+https://vemas.dev/Guess-My-Number/](https://stefanusvemas.github.io/Guess-My-Number/
 
 Implementing JavaScript DOM (Document Object Model)
 - Manipulating elements
